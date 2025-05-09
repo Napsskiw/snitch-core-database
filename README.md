@@ -1,1 +1,0 @@
-# snitch-core-database
